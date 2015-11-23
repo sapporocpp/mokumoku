@@ -23,6 +23,12 @@
 5. 内容について意見交換をする。
 
 # 開催履歴
-- プレもくもく会 http://sapporocpp.connpass.com/event/20578/
-- もくもく会#1 http://sapporocpp.connpass.com/event/22118/
-- もくもく会#2 http://sapporocpp.connpass.com/event/22403/
+
+|回|開催日|URL|
+|---|---|---|
+|プレ|2015.09.28 (月)|http://sapporocpp.connpass.com/event/20578/|
+|#1|2015.10.31 (土)|http://sapporocpp.connpass.com/event/22118/|
+|#2|2015.11.07 (土)|http://sapporocpp.connpass.com/event/22403/|
+|#3|2015.11.14 (土)|http://sapporocpp.connpass.com/event/22769/|
+|#4|2015.11.21 (土)|http://sapporocpp.connpass.com/event/23084/|
+|#5|2015.12.06 (日)|準備中|
