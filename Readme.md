@@ -4,7 +4,7 @@
 - やりたいことがある人は各自やりたいことやります。
 - やることなくて困っている人は運営から何か提案します。
   - 運営提供の[ネタリスト](https://github.com/sapporocpp/mokumoku/labels/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A%E3%83%8D%E3%82%BF)
-  - 札幌C++勉強会#9で行ったオセロAI（）や、札幌C++勉強会#10で行った4目並べAI（）に取り組みたい方もぜひ。
+  - 札幌C++勉強会#9で行ったオセロAI作成（[github:sapporocpp/othello-shell](https://github.com/sapporocpp/othello-shell "sapporocpp/othello-shell")）や、札幌C++勉強会#10で行った4目並べAI作成（[github:sapporocpp/4moku](https://github.com/sapporocpp/4moku "sapporocpp/4moku: 4目並べ")）に取り組みたい方もぜひ。
 
 ## 参加資格
 - C++の勉強をしたい人。
