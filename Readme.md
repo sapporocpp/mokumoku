@@ -29,13 +29,14 @@
 |回|開催日|URL|
 |---|---|---|
 |プレ|2015.09.28 (月)|http://sapporocpp.connpass.com/event/20578/|
-|#1|2015.10.31 (土)|http://sapporocpp.connpass.com/event/22118/|
-|#2|2015.11.07 (土)|http://sapporocpp.connpass.com/event/22403/|
-|#3|2015.11.14 (土)|http://sapporocpp.connpass.com/event/22769/|
-|#4|2015.11.21 (土)|http://sapporocpp.connpass.com/event/23084/|
-|#5|2015.12.06 (日)|http://sapporocpp.connpass.com/event/23330/|
-|#6|2015.12.13 (日)|http://sapporocpp.connpass.com/event/24195/|
-|#7|2015.12.20 (日)|http://sapporocpp.connpass.com/event/24383/|
-|#8|2016.01.23 (土)|http://sapporocpp.connpass.com/event/25605/|
-|#9|2016.01.30 (土)|http://sapporocpp.connpass.com/event/25606/|
+|#01|2015.10.31 (土)|http://sapporocpp.connpass.com/event/22118/|
+|#02|2015.11.07 (土)|http://sapporocpp.connpass.com/event/22403/|
+|#03|2015.11.14 (土)|http://sapporocpp.connpass.com/event/22769/|
+|#04|2015.11.21 (土)|http://sapporocpp.connpass.com/event/23084/|
+|#05|2015.12.06 (日)|http://sapporocpp.connpass.com/event/23330/|
+|#06|2015.12.13 (日)|http://sapporocpp.connpass.com/event/24195/|
+|#07|2015.12.20 (日)|http://sapporocpp.connpass.com/event/24383/|
+|#08|2016.01.23 (土)|http://sapporocpp.connpass.com/event/25605/|
+|#09|2016.01.30 (土)|http://sapporocpp.connpass.com/event/25606/|
+|#10|2016.02.15 (月)|http://sapporocpp.connpass.com/event/26938/|
 
