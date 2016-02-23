@@ -40,3 +40,4 @@
 |#09|2016.01.30 (土)|http://sapporocpp.connpass.com/event/25606/|
 |#10|2016.02.15 (月)|http://sapporocpp.connpass.com/event/26938/|
 |#11|2016.02.22 (月)|http://sapporocpp.connpass.com/event/27188/|
+|#12|2016.02.29 (月)|http://sapporocpp.connpass.com/event/27645/|
