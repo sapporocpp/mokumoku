@@ -6,11 +6,13 @@
   - 運営提供の[ネタリスト](https://github.com/sapporocpp/mokumoku/labels/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A%E3%83%8D%E3%82%BF)
   - 札幌C++勉強会#9で行ったオセロAI作成（[github:sapporocpp/othello-shell](https://github.com/sapporocpp/othello-shell "sapporocpp/othello-shell")）や、札幌C++勉強会#10で行った4目並べAI作成（[github:sapporocpp/4moku](https://github.com/sapporocpp/4moku "sapporocpp/4moku: 4目並べ")）に取り組みたい方もぜひ。
 
+過去にもくもく会参加者が行ったことは、[このレポジトリのIssues](https://github.com/sapporocpp/mokumoku/issues "Issues · sapporocpp/mokumoku")から見られます。
+
 ## 参加資格
 - C++の勉強をしたい人。
 
 ## 日時
-- 毎週土曜日（メンバーの都合により変更する場合があります）
+- おおむね毎週（メンバーの都合により変更する場合があります）
 - 詳細はconnpassで告知しています。[Sapporo.cpp - connpass](http://sapporocpp.connpass.com/ "Sapporo.cpp - connpass")
 
 ## 場所
@@ -41,3 +43,10 @@
 |#10|2016.02.15 (月)|http://sapporocpp.connpass.com/event/26938/|
 |#11|2016.02.22 (月)|http://sapporocpp.connpass.com/event/27188/|
 |#12|2016.02.29 (月)|http://sapporocpp.connpass.com/event/27645/|
+|#13|2016.03.07 (月)|http://sapporocpp.connpass.com/event/28024/|
+|#14|2016.03.14 (月)|http://sapporocpp.connpass.com/event/28384/|
+|#15|2016.03.24 (木)|http://sapporocpp.connpass.com/event/28767/|
+|#16|2016.03.31 (木)|http://sapporocpp.connpass.com/event/29202/|
+|#17|2016.04.07 (木)|http://sapporocpp.connpass.com/event/29689/|
+|#18|2016.04.14 (木)|http://sapporocpp.connpass.com/event/29971/|
+|#19|2016.04.21 (木)|http://sapporocpp.connpass.com/event/30365/|
